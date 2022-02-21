@@ -17,6 +17,7 @@ et les cours Ex :  ( "name": "java",
       "endTime": "9 AM",
       "studentsCount": 3) 
 ces données nous permet de connecter et d'afficher et trier les cours ...
+PS/ POUR VOUS CONNECTER UTILISER MAIL ET PASSWORD
 
 2/ J'ai crée le premier composant login j'ai utiliser le boot strap pour une animation
 et affichage plus clair...(* insertion de username et password/ 
