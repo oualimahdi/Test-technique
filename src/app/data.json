@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "firstName": "Mahdi",
+      "lastName": "Ouali",
+      "nickname": "Mahdouch",
+      "birthday": "10-10-1997",
+      "gender": "male",
+      "email": "mahdiouali1@gmail.com",
+      "password": "pass1",
+      "role": "student"
+    },
+    {
+      "firstName": "Mahdi",
+      "lastName": "Othmani",
+      "nickname": "Mahdouch",
+      "birthday": "28-10-1997",
+      "gender": "male",
+      "email": "mahdiothmani@gmail.com",
+      "password": "pass2",
+      "role": "student"
+    },
+    {
+      "firstName": "Sarra",
+      "lastName": "Ouali",
+      "nickname": "Sarrour",
+      "birthday": "10-10-2001",
+      "gender": "female",
+      "email": "sarraouali@gmail.com",
+      "password": "pass3",
+      "role": "student"
+    },
+    {
+      "firstName": "Khalil",
+      "lastName": "Ouali",
+      "nickname": "Mahdouch",
+      "birthday": "20-05-1994",
+      "gender": "male",
+      "email": "khalilouali@gmail.com",
+      "password": "pass4",
+      "role": "instructor"
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Garcia",
+      "nickname": "Paulito",
+      "birthday": "20-05-1994",
+      "gender": "male",
+      "email": "paulgarcia@gmail.com",
+      "password": "pass5",
+      "role": "instructor"
+    }
+  ],
+  "courses": [
+    {
+      "name": "java",
+      "description": "programming language OOP",
+      "category": " programming laguages ",
+      "subject": "subj 1",
+      "startTime": "8 AM ",
+      "endTime": "9 AM",
+      "studentsCount": 3
+    },
+    {
+      "name": "Python",
+      "description": "programming language OOP",
+      "category": " programming laguages ",
+      "subject": "subj 2",
+      "startTime": "9 AM ",
+      "endTime": "10 AM",
+      "studentsCount": 3
+    },
+    {
+      "name": "Math",
+      "description": "tool for science",
+      "category": "science",
+      "subject": "subj 3",
+      "startTime": "10 AM ",
+      "endTime": "12 PM",
+      "studentsCount": 3
+    },
+    {
+      "name": "Angular",
+      "description": "Développement frontend",
+      "category": " framework ",
+      "subject": "subj 4",
+      "startTime": "8 AM ",
+      "endTime": "9 AM",
+      "studentsCount": 5
+    },
+    {
+      "name": "Complexité algorithmique",
+      "description": "algorithmique",
+      "category": " algoriyhmique ",
+      "subject": "subj 5",
+      "startTime": "11AM ",
+      "endTime": " 01PM",
+      "studentsCount": 5
+    },
+    {
+      "name": "React",
+      "description": "Développement frontend",
+      "category": " framework ",
+      "subject": "subj 6",
+      "startTime": "8 AM ",
+      "endTime": "9 AM",
+      "studentsCount": 7
+    },
+    {
+      "name": "Vuejs",
+      "description": "Développement frontend",
+      "category": " framework ",
+      "subject": "subj 7",
+      "startTime": "8 AM ",
+      "endTime": "9 AM",
+      "studentsCount": 4
+    },
+    {
+      "name": "PostgreSQL",
+      "description": "SGBD",
+      "category": " SGBD ",
+      "subject": "subj 8",
+      "startTime": "8 AM ",
+      "endTime": "9 AM",
+      "studentsCount": 5
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "firstName": "Mahdi",
+      "lastName": "Ouali",
+      "nickname": "Mahdouch",
+      "birthday": "10-10-1994",
+      "gender": "male",
+      "email": "mahdiouali1@gmail.com",
+      "password": "pass1",
+      "role": "student"
+    },
+    {
+      "firstName": "Mahdi",
+      "lastName": "Oualiii",
+      "nickname": "Mahdouch",
+      "birthday": "28-10-1997",
+      "gender": "male",
+      "email": "mahdii@gmail.com",
+      "password": "pass2",
+      "role": "student"
+    },
+    {
+      "firstName": "Sarra",
+      "lastName": "Ouali",
+      "nickname": "Sarrour",
+      "birthday": "10-10-2001",
+      "gender": "female",
+      "email": "sarraouali@gmail.com",
+      "password": "pass3",
+      "role": "student"
+    },
+    {
+      "firstName": "Khalil",
+      "lastName": "Ouali",
+      "nickname": "Mahdouch",
+      "birthday": "20-05-1994",
+      "gender": "male",
+      "email": "khalilouali@gmail.com",
+      "password": "pass4",
+      "role": "instructor"
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Garcia",
+      "nickname": "Paulito",
+      "birthday": "20-05-1994",
+      "gender": "male",
+      "email": "paulgarcia@gmail.com",
+      "password": "pass5",
+      "role": "instructor"
+    }
+  ],
+  "courses": [
+    {
+      "name": "java",
+      "description": "programming language OOP",
+      "category": " programming laguages ",
+      "subject": "subj 1",
+      "startTime": "8 AM ",
+      "endTime": "9 AM",
+      "studentsCount": 3
+    },
+    {
+      "name": "Python",
+      "description": "programming language OOP",
+      "category": " programming laguages ",
+      "subject": "subj 2",
+      "startTime": "9 AM ",
+      "endTime": "10 AM",
+      "studentsCount": 3
+    },
+    {
+      "name": "Math",
+      "description": "tool for science",
+      "category": "science",
+      "subject": "subj 3",
+      "startTime": "10 AM ",
+      "endTime": "12 PM",
+      "studentsCount": 3
+    }
+  ]
+}
